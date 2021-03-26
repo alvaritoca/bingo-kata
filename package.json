@@ -1,0 +1,17 @@
+{
+  "name": "bingo-kata",
+  "version": "1.0.0",
+  "description": "Bingo Kata Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Juan Calvo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
